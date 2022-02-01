@@ -1,0 +1,7 @@
+{
+  "host": "https://api.nasa.gov",
+  "aPodConfig": {
+    "endpoint": "/planetary/apod",
+    "apiKey": "vM9c9zaJtw4yhrAJvh7Bl2oCH5aDQkHyUMRwph5W"
+  }
+}

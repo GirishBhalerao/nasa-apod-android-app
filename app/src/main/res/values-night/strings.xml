@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="apod_date_label">Astronomy Picture of the Day :</string>
+    <string name="apod_network_error_label">Network error occurred. Please check your internet connection</string>
+    <string name="apod_api_failure_error">Error Occurred while loading Astronomy Picture of the Day</string>
+</resources>
